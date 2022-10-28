@@ -1,0 +1,5 @@
+parameterId	parameterScale	upperBound	lowerBound	nominalValue	estimate
+vmax	lin	150.0	0.01		1
+Km	lin	40.0	0.001		1
+sd_s0	lin				1
+sd_s1	lin				1

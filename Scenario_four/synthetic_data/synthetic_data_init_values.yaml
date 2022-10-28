@@ -1,0 +1,12 @@
+global: {}
+r0:
+  vmax:
+    initial_value: 15
+    constant: false
+    upper: 150
+    lower: 0.01
+  Km:
+    initial_value: 10
+    constant: false
+    upper: 40
+    lower: 0.001

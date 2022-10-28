@@ -1,0 +1,3 @@
+observableId	observableName	observableFormula	noiseFormula	noiseDistribution
+s0_conc	Substrate	s0	noiseParameter2_s0_conc + noiseParameter1_s0_conc * Substrate	normal
+s0_conc	Product	s0	noiseParameter2_s0_conc + noiseParameter1_s0_conc * Product	normal
